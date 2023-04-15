@@ -8,7 +8,7 @@ ChatGPTで英語、日本語でのコミュニケーションを練習するア�
 
 # How to install
 **Option 1: MANUAL INSTALL** 
-1. Download the .zip file here: https://github.com/yenntkaopiz/talk-to-chatgpt/raw/main/chrome-extension.zip (this link will always point to the latest version)
+1. Download the .zip file here: https://github.com/yendevy/talk-to-chatgpt/raw/main/chrome-extension.zip (this link will always point to the latest version)
 2. Extract the .zip file in a folder somewhere
 3. Follow this tutorial to install the extension in Chrome in dev mode: https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/
 

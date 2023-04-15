@@ -485,7 +485,7 @@ function CN_InitScript() {
 		
 			// Logo / title
 			"<div style='padding: 4px 40px; border-bottom: 1px solid grey;'>" +
-				"<a href='https://github.com/yenntkaopiz/talk-to-chatgpt' " +
+				"<a href='https://github.com/yendevy/talk-to-chatgpt' " +
 					"style='display: inline-block; font-size: 20px; line-height: 80%; padding: 8px 0;' " +
 					"target=_blank title='Visit project website'>TALK-TO-ChatGPT<br />" +
 					"<div style='text-align: right; font-size: 12px; color: grey'>V2.1.0</div>" +
@@ -667,7 +667,7 @@ function CN_OnSettingsIconClick() {
 	var desc = "<div style='text-align: justify; margin: 8px;'>Please note: some the voices and speech recognition languages do not appear to work. If the one you select doesn't work, try reloading the page. " +
 		"If it still doesn't work after reloading the page, please try selecting another voice or language. " +
 		"Also, sometimes the text-to-speech API takes time to kick in, give it a few seconds to hear the bot speak. <b>Remember this is an experimental extension created just for fun.</b> " +
-		"Check out the <a href='https://github.com/yenntkaopiz/talk-to-chatgpt' target=_blank style='text-decoration: underline'>project page</a> to get the source code." +
+		"Check out the <a href='https://github.com/yendevy/talk-to-chatgpt' target=_blank style='text-decoration: underline'>project page</a> to get the source code." +
 		"</div>";
 	
 	// Open a whole screenful of settings
